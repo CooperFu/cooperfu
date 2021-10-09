@@ -1,4 +1,4 @@
-# <span style="font-family:Trebuchet MS;">Hello, I'm [Cooper Fu][Homepage-Link]
+# <span style="font-family:Trebuchet MS;">Hello, I'm Cooper Fu
 
 <p style="font-family:Georgia;">A Full Stack engineer.</p>
 
