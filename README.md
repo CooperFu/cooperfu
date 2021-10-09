@@ -27,8 +27,8 @@
 ## <span style="font-family:Trebuchet MS;">My GitHub stats:</span>
 
 <!-- ![GitHub Readme Stats][ReadmeStats-Image] -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperfu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperfu&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperfu&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperfu&layout=compact&hide=html,java&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- #region Links -->
@@ -68,7 +68,7 @@
 
 [Codewars-Badge]: https://img.shields.io/badge/-@Garfield550-%23AD2C27?style=flat-square&logo=codewars&logoColor=white "Codewars Badge"
 
-[Ruby-Badge]: https://img.shields.io/badge/-Ruby-%23000000?style=flat-square&logo=ruby&logoColor=white "Ruby Badge"
+[Ruby-Badge]: https://img.shields.io/badge/-Ruby-%23000000?style=flat-square&logo=ruby&logoColor=red "Ruby Badge"
 
 [Dribbble-Badge]: https://img.shields.io/badge/-@Garfield550-%23EA4C89?style=flat-square&logo=dribbble&logoColor=white "Dribbble Badge"
 
