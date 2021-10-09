@@ -27,8 +27,9 @@
 ## <span style="font-family:Trebuchet MS;">My GitHub stats:</span>
 
 <!-- ![GitHub Readme Stats][ReadmeStats-Image] -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperfu&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperfu&layout=compact&hide=html,java&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperfu&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperfu&layout=compact&hide=html,java&count_private=true)
 
 
 <!-- #region Links -->
