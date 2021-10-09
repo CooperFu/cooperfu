@@ -27,11 +27,8 @@
 ## <span style="font-family:Trebuchet MS;">My GitHub stats:</span>
 
 <!-- ![GitHub Readme Stats][ReadmeStats-Image] -->
-<!-- ![GitHub Streak][GitHubStreak-Image] -->
-<div style="display:flex;">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Garfield550" width="500" alt="GitHub Streak Image" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garfield550&layout=compact" width="350" alt="Top Langs" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooperfu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperfu&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- #region Links -->
